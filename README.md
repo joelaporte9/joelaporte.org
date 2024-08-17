@@ -1,12 +1,9 @@
 # joelaporte.org
 joelaporte.org is my personal website
 
-joelaporte.org is my personal website
-
-
 To make this app your own, follow the steps below:
 
-1.) clone this repository however you wish to do so, i.e .zip, git clone...
+1.) clone this repository however you wish to do so, i.e .zip, git clone...          
 2.) Navigate to the frontend folder - cd fontend
 3.) Run: npm install to install frontend packeges 
 4.) Run: npm build to build the project together, take the newly created build
