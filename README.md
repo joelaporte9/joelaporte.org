@@ -1,6 +1,8 @@
 # joelaporte.org
 joelaporte.org is my personal website
 
+joelaporte.org is my personal website
+
 
 To make this app your own, follow the steps below:
 
